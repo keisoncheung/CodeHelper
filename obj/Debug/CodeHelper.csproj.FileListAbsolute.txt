@@ -1,0 +1,5 @@
+D:\Keison\DocNet\trainNewSun\CodeHelper\obj\Debug\ResolveAssemblyReference.cache
+D:\Keison\DocNet\trainNewSun\CodeHelper\bin\Debug\PublicHelper.dll
+D:\Keison\DocNet\trainNewSun\CodeHelper\bin\Debug\PublicHelper.pdb
+D:\Keison\DocNet\trainNewSun\CodeHelper\obj\Debug\PublicHelper.dll
+D:\Keison\DocNet\trainNewSun\CodeHelper\obj\Debug\PublicHelper.pdb
