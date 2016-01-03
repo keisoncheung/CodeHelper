@@ -16,9 +16,9 @@ namespace PublicHelper
         //数据库连接字符串
         //public static string Conn { get { return "Provider = Microsoft.Jet.OLEDB.4.0; Data Source = "+System.Environment.CurrentDirectory +@"\database1.asa"; } }
 
-        //public static string Conn { get { return "Provider = Microsoft.ACE.OLEDB.12.0; Data Source = " + System.Environment.CurrentDirectory + @"\MonitorBase.asa"; } }
+        public static string Conn { get { return "Provider = Microsoft.ACE.OLEDB.12.0; Data Source = " + System.Environment.CurrentDirectory + @"\MonitorBase.asa"; } }
 
-        public static string Conn { get { return @"Provider=MS Remote;Remote Provider = Microsoft.ACE.OLEDB.12.0; Data Source =\118.233.137.203:1060\AppData\MonitorBase.accdb"; } }
+        //public static string Conn { get { return @"Provider=MS Remote;Remote Provider = Microsoft.ACE.OLEDB.12.0; Data Source =\118.233.137.203:1060\AppData\MonitorBase.accdb"; } }
 
         //public static string Conn2 { get { return "Provider = Microsoft.Jet.OLEDB.4.0; Data Source = " + HttpContext.Current.Server.MapPath(ConfigurationSettings.AppSettings["AccessConnectionString2"]); } }
         // 用于缓存参数的HASH表

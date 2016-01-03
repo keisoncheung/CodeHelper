@@ -13,3 +13,7 @@ D:\sofeWare\文件\WEB\CodeHelper\bin\Debug\PublicHelper.pdb
 D:\sofeWare\文件\WEB\CodeHelper\obj\Debug\ResolveAssemblyReference.cache
 D:\sofeWare\文件\WEB\CodeHelper\obj\Debug\PublicHelper.dll
 D:\sofeWare\文件\WEB\CodeHelper\obj\Debug\PublicHelper.pdb
+C:\keison\code\CodeHelper\bin\Debug\PublicHelper.dll
+C:\keison\code\CodeHelper\bin\Debug\PublicHelper.pdb
+C:\keison\code\CodeHelper\obj\Debug\PublicHelper.dll
+C:\keison\code\CodeHelper\obj\Debug\PublicHelper.pdb
